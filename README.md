@@ -1,1 +1,3 @@
-Hello my name is William Akins. My favorite animal is my cat Hemmy and im excited to learn everything!
+1. William Akins wakins@my.waketech.edu
+2. This is my Github account for class CTI 110
+3. This repository on Github will hold assignments for class CTI 110
